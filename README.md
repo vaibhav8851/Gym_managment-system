@@ -64,27 +64,4 @@ Passing Grades: 140
 Result/Report Details
 The result, grades and reports will be shared on 11th September 2021 by 10:00 PM.
 
-Submission Details
-You have to submit the code URL. Please upload all your code in a public Github Repository.
-You have to submit the project video. You can upload the video on Vimeo, Youtube, Google Drive etc. Please ensure that the video is publicly available. To check that please try to open the URL in incognito mode. Please follow the video structure as explained in the assessment guide document.
-You have to submit all these URLs at this form: https://forms.gle/yDRvNqkQfUeDMvB96
-Please ensure that you make your submissions before 23rd Aug’21 11:59 PM IST sharp. No late submissions will be accepted. 
 
-
-
-
-Video Details:
-The duration of the video should be max 20 minutes.
-You can record the video using zoom, loom or any other screen recording 
-tool.
-Please ensure that your video is also visible on the bottom right side of the screen.
-The video needs to be structured in 3 sections:
-Webapp Walkthrough (Max 3 minutes)
-You have to give a product demo of your app. Basically, talk about all the functionalities and show them live. Do NOT show code in this step.
-Code Walkthrough (Max 10 minutes)
-Project Architecture
-Screenwise code walkthrough
-Video QnA:
-Explain the class structure and the relation between them.
-Explain how are you storing the member details provided by the superuser
-Explain how the dictionaries are implemented internally.
